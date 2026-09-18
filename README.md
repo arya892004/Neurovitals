@@ -92,15 +92,6 @@ EXPLICITLY DO NOT BUILD:
 
 DATA: Use Supabase for auth + storing check-ins and synthetic vitals history.  it should has login and authentication
 
-This project was built with [Lovable](https://lovable.dev).
-
-## Build with Lovable
-
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/665f1972-22cd-44f8-8805-8feeb1b2dd45).
-
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: every change made in Lovable is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
 
 ## Development
 
